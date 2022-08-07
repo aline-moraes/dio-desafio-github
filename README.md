@@ -1,2 +1,5 @@
-# dio-desafio-github
-Desafio de projeto sobre github para bootcamp Santander
+# Desafio de projeto Git/GitHub
+Repositório criado para o desafio de projeto para bootcamp Santander
+
+## Links úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
